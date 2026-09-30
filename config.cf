@@ -1,0 +1,5 @@
+#  0 disabled, 1 enabled
+UPPERCASE=1
+
+#  0 disabled, 1 enabled
+COLOR=1
